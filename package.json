@@ -24,9 +24,6 @@
     "categories": [
         "Programming Languages"
     ],
-    "activationEvents": [
-        "onStartupFinished"
-    ],
     "icon": "KDL_Logo_Only_128x128.png",
     "contributes": {
         "languages": [
